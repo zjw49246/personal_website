@@ -64,7 +64,7 @@
         </div>
         {%- if project.img -%}
         <div class="card-img col-md-4">
-          {% include figure.html path=project.img alt="project thumbnail"%}
+          {% include figure.html path=project.img alt=project.title%}
         </div>
         {%- endif -%}
       </div>
