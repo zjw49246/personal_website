@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
@@ -15,8 +15,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+&nbsp;&nbsp;&nbsp;&nbsp;I am a Master's student in University of Michigan, Ann Arbor, majoring in Computer Science and Engineering. Before coming to Umich, I obtained my Bachelor's degree in Geophysics and Computer Science (Dual) from University of Science and Technology of China in 2017, advised by Prof. <a href="http://ess.ustc.edu.cn/faculties/detail-94.html">Daoyuan Sun</a>, Prof. <a href="http://ess.ustc.edu.cn/faculties/detail-213.html">Xinming Wu</a> and Prof. <a href="http://staff.ustc.edu.cn/~liandefu/">Defu Lian</a>. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+&nbsp;&nbsp;&nbsp;&nbsp;My research interests include Computer Graphics (especially VR/AR and physics based simulation) and Machine Learning. I also have research experience in High Performance Computing.
