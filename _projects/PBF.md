@@ -6,7 +6,7 @@ img: assets/img/pbf3d.gif
 importance: 2
 category: Computer Graphics
 github: https://github.com/zjw49246/pbf3d
-tag1: Physics-based Animation
+tag1: Physics-based Simulation
 tag1_style: info
 ---
 
