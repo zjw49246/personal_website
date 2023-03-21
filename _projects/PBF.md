@@ -3,7 +3,7 @@ layout: page
 title: Position Based Fluids Simulation
 description: Implementation of position based fluids (PBF) algorithm, rendered with marching cubes algorithm
 img: assets/img/pbf3d.gif
-importance: 2
+importance: 3
 category: Computer Graphics
 github: https://github.com/zjw49246/pbf3d
 tag1: Physics-based Simulation
@@ -18,7 +18,5 @@ tag1_style: info
     </div>
 </div>
 <div class="caption">
-    Figure 1: Particles
+    Figure 1: PBF3D
 </div>
-
-&nbsp;&nbsp;&nbsp;&nbsp;The fluid surface is constructed by marching cubes algorithm. The figures of rendering results will be updated here soon.
